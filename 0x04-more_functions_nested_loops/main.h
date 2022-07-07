@@ -32,4 +32,16 @@ int _isdigit(int c);
  *Return: 1 if it is digit 0 otherwise                            
 
  */
+int mul(int a, int b);
+/**                                                               
+
+ *mul - multiplies two integers                                   
+
+ *@a: input value
+ *@b: input value                                       
+
+ *Return: multiplication of two integers                          
+
+ */
+
 #endif
