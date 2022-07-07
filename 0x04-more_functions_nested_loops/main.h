@@ -21,4 +21,15 @@ int _isupper(int c);
 
  *Return: 1 if it is uppercase 0 otherwise                         
  */
+int _isdigit(int c);
+
+/**                                                               
+
+ *_isdigit - checks for a digit                                   
+
+ *@c: ASCII value of input character                              
+
+ *Return: 1 if it is digit 0 otherwise                            
+
+ */
 #endif
