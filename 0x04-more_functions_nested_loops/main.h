@@ -37,3 +37,17 @@ int _isdigit(int c);
  *Return: 1 if it is digit 0 otherwise
 
  */
+
+int mul(int a int b);
+
+/**                                                                 
+
+ *mul- multiplies two integers                                       
+
+ *@a: input 1                                                        
+
+ *@b: input 2                                                        
+
+ *Return: produc of the two numbers                                  
+
+ */
