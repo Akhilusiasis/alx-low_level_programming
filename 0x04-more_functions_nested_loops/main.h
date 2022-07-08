@@ -51,3 +51,13 @@ int mul(int a, int b);
  *Return: produc of the two numbers                                  
 
  */
+
+int print_numbers(void);
+
+/**                                                                 
+
+ *print_numbers - print numbers from 0-9                             
+
+ *Return: void                                                       
+
+ */ 
